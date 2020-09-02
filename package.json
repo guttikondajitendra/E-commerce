@@ -2,7 +2,7 @@
   "name": "e-commerece",
   "version": "0.1.0",
   "private": true,
-    "Homepage": "https://guttikondajitendra.github.io/E-commerce.git",
+  "Homepage": "https://guttikondajitendra.github.io/E-commerce.git",
   "dependencies": {
     "@testing-library/jest-dom": "^4.2.4",
     "@testing-library/react": "^9.3.2",
